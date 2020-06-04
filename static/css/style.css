@@ -1,0 +1,8 @@
+li a {
+    color: rgb(150, 150, 212);
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
